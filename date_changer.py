@@ -6,8 +6,6 @@ created_date = "23-12-2024"
 issue_date = "23-12-2024"
 temp_created_date = created_date[:-5]
 temp_issue_date = issue_date[:-5]
-created_date = input("Введите дату создания заметки (дд-мм-гггг): ")
-issue_date = input("Введите дату истечения заметки (дд-мм-гггг): ")
 
 print("Имя пользователя:", username)
 print("Заголовок заметки:", title)
